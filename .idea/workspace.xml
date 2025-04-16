@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e210c8d8-b42b-4033-95c4-57f27550c8de" name="Changes" comment="empezando">
-      <change afterPath="$PROJECT_DIR$/src/entities/cajaAhorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/cuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/nombresBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/productoBancario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/tarjetaDeCredito.java" afterDir="false" />
+    <list default="true" id="e210c8d8-b42b-4033-95c4-57f27550c8de" name="Changes" comment="features productoBancario, nombresBanco, tarjetaDeCredito, cajaAhorro, cuentaCorriente&#10;added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/cajaAhorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/cajaAhorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/cuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/cuentaCorriente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/productoBancario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/productoBancario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744769641095</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="features productoBancario, nombresBanco, tarjetaDeCredito, cajaAhorro, cuentaCorriente&#10;added">
+      <option name="closed" value="true" />
+      <created>1744776248220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744776248220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="empezando" />
-    <option name="LAST_COMMIT_MESSAGE" value="empezando" />
+    <MESSAGE value="features productoBancario, nombresBanco, tarjetaDeCredito, cajaAhorro, cuentaCorriente&#10;added" />
+    <option name="LAST_COMMIT_MESSAGE" value="features productoBancario, nombresBanco, tarjetaDeCredito, cajaAhorro, cuentaCorriente&#10;added" />
   </component>
 </project>

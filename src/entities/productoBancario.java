@@ -41,9 +41,7 @@ public abstract class productoBancario {
         this.sucursal = sucursal;
     }
 
-    public void setNroProducto(int nroProducto) {
-        this.nroProducto = nroProducto;
-    }
+
 
 
 

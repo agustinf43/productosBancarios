@@ -6,8 +6,7 @@ public class cajaAhorro extends productoBancario {
 
     public cajaAhorro(int banco, int sucursal) {
         super(banco, sucursal);
-        this.banco=banco;
-        this.sucursal= sucursal;
+
     }
 
 
