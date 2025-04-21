@@ -1,10 +1,10 @@
 package entities;
 
 public abstract class productoBancario {
-    protected int banco;
-    protected int sucursal;
-    protected int nroProducto;
-
+    private int banco;
+    private int sucursal;
+    private int nroProducto;
+    private TipoCuenta Tipocuenta;
     private static int contador;
 
     static{
@@ -41,9 +41,11 @@ public abstract class productoBancario {
         this.sucursal = sucursal;
     }
 
+    public TipoCuenta getTipocuenta() {
+        return Tipocuenta;
+    }
 
-
-
-
-
+    public void setTipocuenta(TipoCuenta tipocuenta) {
+        Tipocuenta = tipocuenta;
+    }
 }

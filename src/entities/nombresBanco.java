@@ -10,7 +10,7 @@ public enum nombresBanco {
     private final String NOMBRE;
 
 
-    nombresBanco(int codigo, String nombre) {
+   nombresBanco(int codigo, String nombre) {
         this.CODIGO = codigo;
         this.NOMBRE = nombre;
     }

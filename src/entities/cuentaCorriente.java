@@ -9,6 +9,6 @@ public class cuentaCorriente extends productoBancario {
     }
 
     public void mostrarInfo() {
-        System.out.println("Cuenta Corriente - Banco: " + banco + ", Sucursal: " + sucursal + ", Nº de Producto: " + nroProducto);
+        System.out.println("Cuenta Corriente - Banco: " + super.getBanco() + ", Sucursal: " + super.getSucursal() + ", Nº de Producto: " + super.getNroProducto());
     }
 }

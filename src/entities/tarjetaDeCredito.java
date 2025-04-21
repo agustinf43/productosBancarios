@@ -18,7 +18,7 @@ public class tarjetaDeCredito extends productoBancario{
     }
 
     public void mostrarInfo() {
-        System.out.println("Tarjeta de Credito - Banco: " + banco + ", Sucursal: " + sucursal + ", Nº de Producto: " + nroProducto);
+        System.out.println("Tarjeta de Credito - Banco: " + super.getBanco() + ", Sucursal: " + super.getSucursal() + ", Nº de Producto: " + super.getNroProducto());
     }
 
 
